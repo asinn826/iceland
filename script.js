@@ -26,7 +26,7 @@ const itineraryData = [
             {
                 name: 'Hotel Laugarvatn',
                 description: 'Your pre-booked accommodation with access to geothermal baths.',
-                link: 'https://www.hotellaugarvatn.com/'
+                link: 'https://www.hotellaugarvatn.is/'
             }
         ]
     },
@@ -56,7 +56,7 @@ const itineraryData = [
             {
                 name: 'Skógar Campsite',
                 description: 'Camp with the thunderous Skógafoss waterfall as your backdrop.',
-                link: 'https://www.south.is/en/place/skogar-campsite'
+                link: 'https://www.visiticeland.com/service-provider/5ec7d096a90548233654DCC2'
             }
         ]
     },
@@ -82,12 +82,12 @@ const itineraryData = [
             {
                 name: 'Skaftafell Camping',
                 description: 'Ideal base for exploring Vatnajökull National Park with excellent facilities.',
-                link: 'https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell/service/camping'
+                link: 'https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell/tjaldsvaedid-i-skaftafelli'
             },
             {
                 name: 'Kirkjubæjarklaustur Camping',
                 description: 'Well-located, full-service campsite between Vík and Skaftafell.',
-                link: 'https://www.south.is/en/place/tjaldsvaedid-kirkjubaearklaustri-ii'
+                link: 'https://icelandthebeautiful.com/campsite-kirkjubaer-ii/'
             }
         ]
     },
@@ -111,12 +111,12 @@ const itineraryData = [
             {
                 name: 'Camping Höfn',
                 description: 'Modern campsite near the charming fishing town of Höfn, known for its lobster restaurants.',
-                link: 'https://www.campinghofn.is/'
+                link: 'https://www.ferdalag.is/en/service/hofn-camping-ground'
             },
             {
                 name: 'Skaftafell Camping',
                 description: 'Stay another night to explore more of Vatnajökull National Park.',
-                link: 'https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell/service/camping'
+                link: 'https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell/tjaldsvaedid-i-skaftafelli'
             }
         ]
     },
@@ -143,12 +143,12 @@ const itineraryData = [
             {
                 name: 'Hella Camping',
                 description: 'Well-regarded campsite with good facilities, convenient for your journey back west.',
-                link: 'https://www.south.is/en/place/hella-camping-ground'
+                link: 'https://linkedin.com/'
             },
             {
                 name: 'Hvolsvöllur Camping',
                 description: 'Full-service option in a small town, perfectly positioned for your journey.',
-                link: 'https://www.south.is/en/place/hvolsvollur-campsite'
+                link: 'https://www.visiticeland.com/service-provider/5ec7d096a90548233654DCBB'
             }
         ]
     },
@@ -171,12 +171,12 @@ const itineraryData = [
             {
                 name: 'Hafnarfjörður Camping',
                 description: 'Located in a park in a town just outside Reykjavík, offering a quieter setting.',
-                link: 'https://www.campinghafnarfjordur.com/'
+                link: 'https://www.visiticeland.com/service-provider/5ec7d096a90548233654E041'
             },
             {
                 name: 'Grindavík Campsite',
                 description: 'Modern campsite close to the airport, convenient for campervan return.',
-                link: 'https://www.visitreykjanes.is/en/travel/services/grindavik-campsite'
+                link: 'https://grindavikcampsite.com/'
             }
         ]
     },
